@@ -6,7 +6,7 @@ Algoritmo EjComplementario1
 	Leer num2
 	
 	Si num1=num2 Entonces
-		Escribir "Los numeros ingresados son iguales."
+		Escribir "Los numeros son iguales."
 	SiNo
 		Si num1<num2 Entonces
 			Escribir "El mayor numero de los ingresados es: "
